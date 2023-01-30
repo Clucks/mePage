@@ -1,0 +1,10 @@
+body {
+    display:flex;
+}
+
+.header {
+    background-color:rgb(0, 106, 255);    
+    padding: 10px;
+    text-align: center;
+    font-size: 24px;
+}
